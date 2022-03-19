@@ -1,0 +1,22 @@
+{
+  "name": "is-divisible-by-zero",
+  "version": "1.0.0",
+  "description": "Simple npm package that lets you check is a number is divisible by zero!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conqr2/is-divisible-by-zero.git"
+  },
+  "keywords": [
+    "is-divisible-by-zero"
+  ],
+  "author": "conqr2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conqr2/is-divisible-by-zero/issues"
+  },
+  "homepage": "https://github.com/conqr2/is-divisible-by-zero#readme"
+}
